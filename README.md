@@ -113,7 +113,6 @@
 - [day9](day9/)
   - [1-正则查找第二个.py](day9/1-正则查找第二个.py)
   - [2-sorted的使用.py](day9/2-sorted的使用.py)
-  - [3-jupyter使用讲解.ipynb](day9/3-jupyter使用讲解.ipynb)
   - [4-matplotlib.ipynb](day9/4-matplotlib.ipynb)
   - [5-numpy.ipynb](day9/5-numpy.ipynb)
 - [day9_test](day9_test/)
